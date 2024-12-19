@@ -6,6 +6,6 @@ Project Software: MATLAB
 By: Nawwaf Anshorulloh Supriyatna
 Universitas Negeri Semarang
 
-Data Source: https://idx.co.id/id/perusahaan-tercatat/profil-perusahaan-tercatat/ASII
+Data Source: https://idx.co.id/en/listed-companies/company-profiles/ASII
 
 Data taken from 07-22-2020 until 09-04-2024
