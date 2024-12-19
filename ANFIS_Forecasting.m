@@ -4,7 +4,7 @@ clc;clear;close all;tic
 %% Load & Plot Dataset
 
 % Load data
-kel7_data = readtable('C:\Users\User\Documents\MATLAB\Data Harga Saham ASII.xlsx');
+kel7_data = readtable('C:\Users\User\Documents\MATLAB\Datasets.xlsx');
 
 time = kel7_data.Date;
 x = kel7_data.Close_Price;
